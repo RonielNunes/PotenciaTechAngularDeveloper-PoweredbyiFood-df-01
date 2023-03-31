@@ -4,7 +4,7 @@ Repositório para armazenar o código do Desafio I, registrar as lições aprend
 
 ## 🗨️ **Sumário**
 
-* `[icone-Desafio2](https://github.com/RonielNunes/<nome repositório>/blob/main/README.md#<titulo para o salto>)`
+* [Anotações](https://github.com/RonielNunes/PotenciaTechAngularDeveloper-PoweredbyiFood-df-01#-anota%C3%A7%C3%B5es)
 
 ## 💡 **Anotações**
 
@@ -19,6 +19,7 @@ Repositório para armazenar o código do Desafio I, registrar as lições aprend
 - **Tema:**
 - **Objetivo:**
 - **Tecnologias utilizadas:**
+- **Link repositório:**
 
 ----
 
@@ -27,6 +28,7 @@ Repositório para armazenar o código do Desafio I, registrar as lições aprend
 - **Tema:**
 - **Objetivo:**
 - **Tecnologias utilizadas:**
+- **Link repositório:**
 
 ----
 
@@ -34,6 +36,7 @@ Repositório para armazenar o código do Desafio I, registrar as lições aprend
 - **Tema:**
 - **Objetivo:**
 - **Tecnologias utilizadas:**
+- **Link repositório:**
 
 ----
 
@@ -41,3 +44,4 @@ Repositório para armazenar o código do Desafio I, registrar as lições aprend
 - **Tema:**
 - **Objetivo:**
 - **Tecnologias utilizadas:**
+- **Link repositório:**
