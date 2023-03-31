@@ -1,4 +1,4 @@
-# **Potência Tec Angular Developer Powered by iFood**
+# **Potência Tech Angular Developer Powered by iFood**
 
 Repositório para armazenar o código do Desafio I, registrar as lições aprendidas e manter o endereço para os próximos desafios.
 
